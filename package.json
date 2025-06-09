@@ -9,6 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/Muhammadd-01/MernEasyProject.git"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
